@@ -1,10 +1,11 @@
+
 ## Bethany Barnwell
 
-I am currently a PhD student at Georgia Tech working under <a href="https://faculty.cc.gatech.edu/~echerry/" target="_blank">Dr. Elizbeth Cherry</a>. My research is focused on applying data analysis and machine learning techniques to uncover mechanisms of arrhythmia formation and progression with the goal of improving diagnosis, prevention, and treatment strategies for cardiovascular disease.
+I am currently a PhD student at Georgia Tech working under [Dr. Elizabeth Cherry](https://faculty.cc.gatech.edu/~echerry/). My research is focused on applying data analysis and machine learning techniques to uncover mechanisms of arrhythmia formation and progression with the goal of improving diagnosis, prevention, and treatment strategies for cardiovascular disease.
 
-Previously, I earned Bachelor's degrees in Computer Science and Business Administration from the University of Nebraska-Lincoln and was a part of the <a href="https://raikes.unl.edu/" target="_blank">Jeffrey S. Raikes School of Computer Science and Management</a>. While at UNL, I conducted research under <a href="https://dschultz14.quarto.pub/douglashschultz/" target="_blank">Dr. Douglas Schultz</a> at the <a href="https://cb3.unl.edu/" target="_blank">Center for Brain, Biology, and Behavior</a> where I applied machine learning to neuroscience datasets to advance the university’s primary concussion research project and other neuroscience projects.
+Previously, I earned Bachelor's degrees in Computer Science and Business Administration from the University of Nebraska-Lincoln and was a part of the [Jeffrey S. Raikes School of Computer Science and Management](https://raikes.unl.edu/). While at UNL, I conducted research under [Dr. Douglas Schultz](https://dschultz14.quarto.pub/douglashschultz/) at the [Center for Brain, Biology, and Behavior](https://cb3.unl.edu/) where I applied machine learning to neuroscience datasets to advance the university’s primary concussion research project and other neuroscience projects.
 
-More information about my background and research can be found at my <a href="https://www.linkedin.com/in/bethany-barnwell/" target="_blank">LinkedIn</a> or <a href="https://bbarnwell6.github.io/" target="_blank">website</a>.
+More information about my background and research can be found at my [LinkedIn](https://www.linkedin.com/in/bethany-barnwell/) or [website](https://bbarnwell6.github.io/). 
 <!--
 **bbarnwell6/bbarnwell6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
